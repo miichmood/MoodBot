@@ -1,6 +1,7 @@
 # Moodbot
 
-**Moodbot** is an Android automation tool designed to reduce repetitive grind actions, running on **LDPlayer** using **ADB**.
+Moodbot is an Android automation tool for **Clash of Clans (CoC)**, running on **LDPlayer** using **ADB**.
+It focuses on repetitive tasks such as farming loops and **wall upgrades**, with presets for all **Town Hall (TH)** levels.
 
 🎥 **Demo video:** https://www.youtube.com/watch?v=QFi7fGAHiKg
 
